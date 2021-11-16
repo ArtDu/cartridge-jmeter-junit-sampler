@@ -29,7 +29,7 @@
         <JUnitSampler guiclass="JUnitTestSamplerGui" testclass="JUnitSampler" testname="JUnit Request" enabled="true">
           <stringProp name="junitSampler.classname">io.tarantool.jmeter.TarantoolTest</stringProp>
           <stringProp name="junitsampler.constructorstring"></stringProp>
-          <stringProp name="junitsampler.method">echo_1</stringProp>
+          <stringProp name="junitsampler.method">findByNameWithoutIndex</stringProp>
           <stringProp name="junitsampler.pkg.filter"></stringProp>
           <stringProp name="junitsampler.success">Test successful</stringProp>
           <stringProp name="junitsampler.success.code">1000</stringProp>
